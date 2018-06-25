@@ -17,10 +17,13 @@ div {
 
 #orange {
   background-color: #ffa500;
+  border-top-color: #f00;
 }
 
 #yellow {
   background-color: #ff0;
+  border-top-color: #f00;
+
 }
 
 #green {
@@ -32,9 +35,11 @@ div {
 }
 
 #indigo {
-  background-color: #8a2be2
+  background-color: #8a2be2;
+  border-top-color: #f00;
 }
 
 #violet {
   background-color: #d300c9;
+  border-top-color: #f00;
 }
