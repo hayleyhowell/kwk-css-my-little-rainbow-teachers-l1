@@ -28,10 +28,12 @@ div {
 
 #green {
   background-color: #00bc3f;
+  border-top-color: #f00;
 }
 
 #blue {
   background-color: #06f;
+  border-top-color: #f00;
 }
 
 #indigo {
